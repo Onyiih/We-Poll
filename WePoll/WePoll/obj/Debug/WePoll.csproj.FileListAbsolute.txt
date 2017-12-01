@@ -1,0 +1,148 @@
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\csc.exe
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\csc.exe.config
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\csc.rsp
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\csi.exe
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\csi.exe.config
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\csi.rsp
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.AppContext.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.Console.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.IO.Compression.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.Security.Claims.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.ValueTuple.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\vbc.exe
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\vbc.exe.config
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\vbc.rsp
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\VBCSCompiler.exe
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\WePoll.dll.config
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\WePoll.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\WePoll.pdb
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\System.Web.Helpers.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\System.Web.Mvc.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\System.Web.Razor.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\System.Web.Webpages.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\System.Web.Webpages.Razor.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\WePoll.Domain.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\WePoll.Infrastructure.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\WePoll.Domain.pdb
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\WePoll.Infrastructure.pdb
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\System.Web.Razor.xml
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\System.Web.Webpages.xml
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\System.Web.Webpages.Razor.xml
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\System.Web.Helpers.xml
+C:\Users\Onyeka\source\repos\WePoll\WePoll\bin\System.Web.Mvc.xml
+C:\Users\Onyeka\source\repos\WePoll\WePoll\obj\Debug\WePoll.csprojResolveAssemblyReference.cache
+C:\Users\Onyeka\source\repos\WePoll\WePoll\obj\Debug\WePoll.csproj.CoreCompileInputs.cache
+C:\Users\Onyeka\source\repos\WePoll\WePoll\obj\Debug\WePoll.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll\obj\Debug\WePoll.pdb
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\csc.exe
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\csc.exe.config
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\csc.rsp
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\csi.exe
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\csi.exe.config
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\csi.rsp
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.AppContext.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.Console.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.IO.Compression.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.Security.Claims.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.ValueTuple.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\vbc.exe
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\vbc.exe.config
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\vbc.rsp
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\VBCSCompiler.exe
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\WePoll.dll.config
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\WePoll.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\WePoll.pdb
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\System.Web.Helpers.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\System.Web.Mvc.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\System.Web.Razor.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\System.Web.Webpages.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\System.Web.Webpages.Razor.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\WePoll.Domain.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\WePoll.Infrastructure.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\WePoll.Domain.pdb
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\WePoll.Infrastructure.pdb
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\System.Web.Razor.xml
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\System.Web.Webpages.xml
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\System.Web.Webpages.Razor.xml
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\System.Web.Helpers.xml
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\System.Web.Mvc.xml
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\obj\Debug\WePoll.csprojResolveAssemblyReference.cache
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\obj\Debug\WePoll.csproj.CoreCompileInputs.cache
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\obj\Debug\WePoll.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\obj\Debug\WePoll.pdb

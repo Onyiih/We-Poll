@@ -1,0 +1,6 @@
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Domain\bin\Debug\WePoll.Domain.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Domain\bin\Debug\WePoll.Domain.pdb
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Domain\obj\Debug\WePoll.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Domain\obj\Debug\WePoll.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Domain\obj\Debug\WePoll.Domain.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Domain\obj\Debug\WePoll.Domain.pdb

@@ -1,0 +1,16 @@
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Infrastructure\bin\Debug\WePoll.Infrastructure.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Infrastructure\bin\Debug\WePoll.Infrastructure.pdb
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Infrastructure\bin\Debug\WePoll.Domain.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Infrastructure\bin\Debug\WePoll.Domain.pdb
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Infrastructure\obj\Debug\WePoll.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Infrastructure\obj\Debug\WePoll.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Infrastructure\obj\Debug\WePoll.Infrastructure.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Infrastructure\obj\Debug\WePoll.Infrastructure.pdb
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Infrastructure\bin\Debug\WePoll.Infrastructure.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Infrastructure\bin\Debug\WePoll.Infrastructure.pdb
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Infrastructure\bin\Debug\WePoll.Domain.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Infrastructure\bin\Debug\WePoll.Domain.pdb
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Infrastructure\obj\Debug\WePoll.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Infrastructure\obj\Debug\WePoll.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Infrastructure\obj\Debug\WePoll.Infrastructure.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Infrastructure\obj\Debug\WePoll.Infrastructure.pdb
