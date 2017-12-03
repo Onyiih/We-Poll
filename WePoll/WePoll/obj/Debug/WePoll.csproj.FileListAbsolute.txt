@@ -132,9 +132,7 @@ C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\System.Web.Webpages.Dep
 C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\System.Web.Webpages.dll
 C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\System.Web.Webpages.Razor.dll
 C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\WePoll.Domain.dll
-C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\WePoll.Infrastructure.dll
 C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\WePoll.Domain.pdb
-C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\WePoll.Infrastructure.pdb
 C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\System.Web.Razor.xml
 C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\System.Web.Webpages.xml
@@ -146,3 +144,7 @@ C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\obj\Debug\WePoll.csprojReso
 C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\obj\Debug\WePoll.csproj.CoreCompileInputs.cache
 C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\obj\Debug\WePoll.dll
 C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\obj\Debug\WePoll.pdb
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\EntityFramework.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\EntityFramework.SqlServer.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\EntityFramework.xml
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll\bin\EntityFramework.SqlServer.xml

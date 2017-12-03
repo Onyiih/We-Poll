@@ -67,10 +67,6 @@
       <Project>{1c525215-bcc5-450c-acdb-6ccd7ab55262}</Project>
       <Name>WePoll.Domain</Name>
     </ProjectReference>
-    <ProjectReference Include="..\WePoll.Infrastructure\WePoll.Infrastructure.csproj">
-      <Project>{90900c41-ef49-4d25-b549-6ce4db93fcbd}</Project>
-      <Name>WePoll.Infrastructure</Name>
-    </ProjectReference>
     <ProjectReference Include="..\WePoll\WePoll.csproj">
       <Project>{04EB001F-07DC-4FB0-8566-46067C9DF32C}</Project>
       <Name>WePoll</Name>
