@@ -10,11 +10,12 @@ namespace WePoll.Infrastructure1.Data
 {
     public class Initiator
     {
-        [ForeignKey(User)]
+        [Key,ForeignKey("User")]
         public int UserId { get; set; }
-        public string Address { get; set; }
         
         //Relationships
         public virtual User User { get; set; }
+        public virtual ICollection<Question> Questions { get; set; } = new HashSet<Question>();
+        public virtual ICollection<Answer> Answers { get; set; } = new HashSet<Answer>();
     }
 }

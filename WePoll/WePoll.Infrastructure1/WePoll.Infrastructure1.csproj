@@ -48,15 +48,50 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Data\Answer.cs" />
     <Compile Include="Data\DataEntities.cs" />
     <Compile Include="Data\Initiator.cs" />
+    <Compile Include="Data\Poll.cs" />
+    <Compile Include="Data\Question.cs" />
+    <Compile Include="Data\Respondent.cs" />
     <Compile Include="Data\User.cs" />
+    <Compile Include="Data\Vote.cs" />
+    <Compile Include="Migrations\201712031749064_InitialSchema.cs" />
+    <Compile Include="Migrations\201712031749064_InitialSchema.Designer.cs">
+      <DependentUpon>201712031749064_InitialSchema.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201712040246597_AddQuestionsAnswersPollsRespondentsAndVotes.cs" />
+    <Compile Include="Migrations\201712040246597_AddQuestionsAnswersPollsRespondentsAndVotes.Designer.cs">
+      <DependentUpon>201712040246597_AddQuestionsAnswersPollsRespondentsAndVotes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201712040401524_AddVotesAndRespondents.cs" />
+    <Compile Include="Migrations\201712040401524_AddVotesAndRespondents.Designer.cs">
+      <DependentUpon>201712040401524_AddVotesAndRespondents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201712040407248_AddAnswers.cs" />
+    <Compile Include="Migrations\201712040407248_AddAnswers.Designer.cs">
+      <DependentUpon>201712040407248_AddAnswers.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201712031749064_InitialSchema.resx">
+      <DependentUpon>201712031749064_InitialSchema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201712040246597_AddQuestionsAnswersPollsRespondentsAndVotes.resx">
+      <DependentUpon>201712040246597_AddQuestionsAnswersPollsRespondentsAndVotes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201712040401524_AddVotesAndRespondents.resx">
+      <DependentUpon>201712040401524_AddVotesAndRespondents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201712040407248_AddAnswers.resx">
+      <DependentUpon>201712040407248_AddAnswers.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

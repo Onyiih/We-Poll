@@ -15,9 +15,13 @@ namespace WePoll.Infrastructure1.Data
         public string LastName { get; set; }
         public string Email { get; set; }
         public int PhoneNumber { get; set; }
+        public string Address { get; set; }
         public string Password { get; set; }
+        public string Image { get; set; }
+        
         
         //Relationships
         public virtual Initiator Initiator { get; set; }
+        public virtual Respondent Respondent { get; set; }
     }
 }
