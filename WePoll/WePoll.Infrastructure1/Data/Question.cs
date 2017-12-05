@@ -14,6 +14,5 @@ namespace WePoll.Infrastructure1.Data
 
         //Relationship
         public virtual ICollection<Answer> Answers { get; set; } = new HashSet<Answer>();
-        public virtual ICollection<Respondent> Respondents { get; set; } = new HashSet<Respondent>();
     }
 }

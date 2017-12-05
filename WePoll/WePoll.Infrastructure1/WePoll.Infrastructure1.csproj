@@ -54,8 +54,6 @@
     <Compile Include="Data\Poll.cs" />
     <Compile Include="Data\Question.cs" />
     <Compile Include="Data\Respondent.cs" />
-    <Compile Include="Data\User.cs" />
-    <Compile Include="Data\Vote.cs" />
     <Compile Include="Migrations\201712031749064_InitialSchema.cs" />
     <Compile Include="Migrations\201712031749064_InitialSchema.Designer.cs">
       <DependentUpon>201712031749064_InitialSchema.cs</DependentUpon>
@@ -71,6 +69,18 @@
     <Compile Include="Migrations\201712040407248_AddAnswers.cs" />
     <Compile Include="Migrations\201712040407248_AddAnswers.Designer.cs">
       <DependentUpon>201712040407248_AddAnswers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201712042223235_Add.cs" />
+    <Compile Include="Migrations\201712042223235_Add.Designer.cs">
+      <DependentUpon>201712042223235_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201712050017548_update.cs" />
+    <Compile Include="Migrations\201712050017548_update.Designer.cs">
+      <DependentUpon>201712050017548_update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201712050026267_Updates.cs" />
+    <Compile Include="Migrations\201712050026267_Updates.Designer.cs">
+      <DependentUpon>201712050026267_Updates.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -91,6 +101,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201712040407248_AddAnswers.resx">
       <DependentUpon>201712040407248_AddAnswers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201712042223235_Add.resx">
+      <DependentUpon>201712042223235_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201712050017548_update.resx">
+      <DependentUpon>201712050017548_update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201712050026267_Updates.resx">
+      <DependentUpon>201712050026267_Updates.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

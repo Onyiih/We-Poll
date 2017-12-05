@@ -9,12 +9,10 @@ namespace WePoll.Infrastructure1.Data
 {
     public class DataEntities: DbContext
     {
-        public DbSet<User> Users { get; set; }
         public DbSet<Initiator> Initiators { get; set; }
         public DbSet<Question> Questions { get; set; }
         public DbSet<Answer> Answers { get; set; }
         public DbSet<Poll> Polls { get; set; }
         public DbSet<Respondent> Respondents { get; set; }
-        public DbSet<Vote> Votes { get; set; }
     }
 }
