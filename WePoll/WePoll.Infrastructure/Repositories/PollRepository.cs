@@ -28,7 +28,6 @@ namespace WePoll.Infrastructure.Repositories
                             //Select out the poll and corresponding votes
                             select new
                             {
-
                                 poll,
                                 votes
                             };
