@@ -1,0 +1,319 @@
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\csc.exe.config
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\csc.rsp
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\csi.exe
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\csi.exe.config
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\csi.rsp
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Console.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Diagnostics.Process.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.IO.Compression.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.IO.Pipes.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.AccessControl.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.Claims.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Threading.Thread.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.ValueTuple.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Xml.XPath.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\vbc.exe.config
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\vbc.rsp
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\WePoll.Tests.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\WePoll.Tests.pdb
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\WePoll.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\WePoll.Domain.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\WePoll.Infrastructure.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\WePoll.Domain.pdb
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\WePoll.Infrastructure.pdb
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\WePoll.pdb
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\WePoll.dll.config
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\obj\Debug\WePoll.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\obj\Debug\WePoll.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\obj\Debug\WePoll.Tests.dll
+C:\Users\Onyeka\source\repos\WePoll\WePoll.Tests\obj\Debug\WePoll.Tests.pdb
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\csc.exe.config
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\csc.rsp
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\csi.exe
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\csi.exe.config
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\csi.rsp
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Console.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Diagnostics.Process.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.IO.Compression.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.IO.Pipes.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.AccessControl.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.Claims.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Threading.Thread.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.ValueTuple.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Xml.XPath.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\vbc.exe.config
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\vbc.rsp
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\WePoll.Tests.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\WePoll.Tests.pdb
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\WePoll.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\WePoll.Domain.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\WePoll.Infrastructure.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\WePoll.Domain.pdb
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\WePoll.Infrastructure.pdb
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\WePoll.pdb
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\WePoll.dll.config
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\obj\Debug\WePoll.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\obj\Debug\WePoll.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\obj\Debug\WePoll.Tests.dll
+C:\Users\Onyeka\Desktop\WePoll Project\WePoll\WePoll.Tests\obj\Debug\WePoll.Tests.pdb
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.AppContext.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Console.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Diagnostics.Process.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.IO.Compression.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.IO.Pipes.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.AccessControl.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.Claims.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.Principal.Windows.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Threading.Thread.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.ValueTuple.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\csc.exe
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\csc.exe.config
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\csc.rsp
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\csi.exe
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\csi.exe.config
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\csi.rsp
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Xml.XPath.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\vbc.exe
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\vbc.exe.config
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\vbc.rsp
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\WePoll.Tests.dll.config
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\WePoll.Tests.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\WePoll.Tests.pdb
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\WePoll.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\WePoll.Domain.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\System.Web.Mvc.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\System.Web.Razor.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\System.Web.WebPages.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\WePoll.Domain.pdb
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\WePoll.pdb
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\WePoll.dll.config
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\System.Web.Mvc.xml
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\System.Web.Razor.xml
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\System.Web.WebPages.xml
+F:\We-Poll\WePoll\WePoll.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\We-Poll\WePoll\WePoll.Tests\obj\Debug\WePoll.Tests.csprojResolveAssemblyReference.cache
+F:\We-Poll\WePoll\WePoll.Tests\obj\Debug\WePoll.Tests.csproj.CoreCompileInputs.cache
+F:\We-Poll\WePoll\WePoll.Tests\obj\Debug\WePoll.Tests.dll
+F:\We-Poll\WePoll\WePoll.Tests\obj\Debug\WePoll.Tests.pdb
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\WePoll.Tests.dll.config
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\WePoll.Tests.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\WePoll.Tests.pdb
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\WePoll.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\WePoll.Domain.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\WePoll.Infrastructure.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\WePoll.Domain.pdb
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\WePoll.Infrastructure.pdb
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\WePoll.Infrastructure.dll.config
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\WePoll.pdb
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\WePoll.dll.config
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\obj\Debug\WePoll.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\obj\Debug\WePoll.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\obj\Debug\WePoll.Tests.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\obj\Debug\WePoll.Tests.pdb
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\csc.exe.config
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\csc.rsp
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\csi.exe
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\csi.exe.config
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\csi.rsp
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Console.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Diagnostics.Process.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.IO.Compression.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.IO.Pipes.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.AccessControl.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.Claims.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Threading.Thread.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.ValueTuple.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Xml.XPath.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\vbc.exe.config
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\vbc.rsp
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
