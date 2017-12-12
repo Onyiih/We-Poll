@@ -56,16 +56,21 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="Managers\PollManagerTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\WePoll.Domain\WePoll.Domain.csproj">
       <Project>{1c525215-bcc5-450c-acdb-6ccd7ab55262}</Project>
       <Name>WePoll.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WePoll.Infrastructure\WePoll.Infrastructure.csproj">
+      <Project>{f60bf94d-7f4b-44e1-9b59-9e457e9c450e}</Project>
+      <Name>WePoll.Infrastructure</Name>
     </ProjectReference>
     <ProjectReference Include="..\WePoll\WePoll.csproj">
       <Project>{04EB001F-07DC-4FB0-8566-46067C9DF32C}</Project>

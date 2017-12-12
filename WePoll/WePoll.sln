@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.16
+VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WePoll", "WePoll\WePoll.csproj", "{04EB001F-07DC-4FB0-8566-46067C9DF32C}"
 EndProject
@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WePoll.Domain", "WePoll.Dom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WePoll.Tests", "WePoll.Tests\WePoll.Tests.csproj", "{013E1450-1922-460B-A56B-118BF6F6C09A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WePoll.Infrastructure1", "WePoll.Infrastructure1\WePoll.Infrastructure1.csproj", "{F60BF94D-7F4B-44E1-9B59-9E457E9C450E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WePoll.Infrastructure", "WePoll.Infrastructure\WePoll.Infrastructure.csproj", "{F60BF94D-7F4B-44E1-9B59-9E457E9C450E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
