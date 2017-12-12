@@ -1,0 +1,24 @@
+F:\We-Poll\WePoll\WePoll.Infrastructure\bin\Debug\WePoll.Infrastructure.dll.config
+F:\We-Poll\WePoll\WePoll.Infrastructure\bin\Debug\WePoll.Infrastructure.dll
+F:\We-Poll\WePoll\WePoll.Infrastructure\bin\Debug\WePoll.Infrastructure.pdb
+F:\We-Poll\WePoll\WePoll.Infrastructure\bin\Debug\EntityFramework.dll
+F:\We-Poll\WePoll\WePoll.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+F:\We-Poll\WePoll\WePoll.Infrastructure\bin\Debug\EntityFramework.xml
+F:\We-Poll\WePoll\WePoll.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+F:\We-Poll\WePoll\WePoll.Infrastructure\obj\Debug\WePoll.Infrastructure.csprojResolveAssemblyReference.cache
+F:\We-Poll\WePoll\WePoll.Infrastructure\obj\Debug\WePoll.Infrastructure.csproj.CoreCompileInputs.cache
+F:\We-Poll\WePoll\WePoll.Infrastructure\obj\Debug\WePoll.Infrastructure.dll
+F:\We-Poll\WePoll\WePoll.Infrastructure\obj\Debug\WePoll.Infrastructure.pdb
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Infrastructure\bin\Debug\WePoll.Infrastructure.dll.config
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Infrastructure\bin\Debug\WePoll.Infrastructure.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Infrastructure\bin\Debug\WePoll.Infrastructure.pdb
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Infrastructure\bin\Debug\WePoll.Domain.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Infrastructure\bin\Debug\WePoll.Domain.pdb
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Infrastructure\obj\Debug\WePoll.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Infrastructure\obj\Debug\WePoll.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Infrastructure\obj\Debug\WePoll.Infrastructure.dll
+C:\Users\Onyeka\Desktop\WePoll Project\We-Poll\WePoll\WePoll.Infrastructure\obj\Debug\WePoll.Infrastructure.pdb
