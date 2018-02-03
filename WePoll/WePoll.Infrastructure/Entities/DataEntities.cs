@@ -11,8 +11,8 @@ namespace WePoll.Infrastructure.Entities
     {
         public DbSet<User> Users { get; set; }
         public DbSet<Respondent> Respondents { get; set; }
+        public DbSet<Response> Responses { get; set; } 
         public DbSet<Poll> Polls { get; set; }
         public DbSet<Option> Options { get; set; }
-        public DbSet<Vote> Votes { get; set; }
     }
 }

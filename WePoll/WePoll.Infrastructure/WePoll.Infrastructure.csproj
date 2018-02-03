@@ -47,13 +47,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Entities\DataEntities.cs" />
+    <Compile Include="Entities\Response.cs" />
     <Compile Include="Entities\User.cs" />
     <Compile Include="Entities\Poll.cs" />
     <Compile Include="Entities\Option.cs" />
     <Compile Include="Entities\Respondent.cs" />
-    <Compile Include="Entities\Vote.cs" />
+    <Compile Include="Migrations\201802031552554_AddResponseTable.cs" />
+    <Compile Include="Migrations\201802031552554_AddResponseTable.Designer.cs">
+      <DependentUpon>201802031552554_AddResponseTable.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\PollRepository.cs" />
@@ -70,6 +73,11 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Utilities\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201802031552554_AddResponseTable.resx">
+      <DependentUpon>201802031552554_AddResponseTable.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -14,6 +14,5 @@ namespace WePoll.Infrastructure.Entities
         public DateTime DateCreated { get; set; } 
 
         public virtual Poll Poll { get; set; }
-        public ICollection<Vote> Votes { get; set; } = new HashSet<Vote>();
     }
 }

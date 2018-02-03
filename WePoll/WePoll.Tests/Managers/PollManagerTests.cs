@@ -2,6 +2,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using WePoll.Domain.Managers;
 using WePoll.Domain.Models;
+using WePoll.Tests.Mock.Repositories;
 
 namespace WePoll.Tests.Managers
 {
@@ -12,10 +13,10 @@ namespace WePoll.Tests.Managers
         public void ViewPoll()
         {
             //Arrange
-            var manager = new PollManager();
-            var mockVotes = new PollModel[] { };
+            var mockPollRepo = new MockPollRepository();
+            var manager = new PollManager(mockPollRepo);
             //Act
-            var votes = manager.ViewPoll();
+            var votes = manager.GetPoll();
             //Asserts
             Assert.IsTrue(votes.Length > 0, "No Vote was cast");
         }

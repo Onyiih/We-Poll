@@ -1,10 +1,103 @@
-﻿
-@{
+﻿@{
     ViewBag.Title = "Index";
 }
 
-<h2>Index</h2>
+@*<h4>Polls</h4>*@
 
-<a href="@Url.Action("vote")" class="btn btn-primary">
-    <i class="fa fa-first-vote"></i>Vote
-</a>
+
+@*<head>
+        <meta name="viewport" content="width=device-width" />
+        <title>WePoll</title>
+        <link rel="Stylesheet" href="../../Content/demo.css" />
+    </head>*@
+
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+        <div class="item active">
+            <img src="~/Content/images/image1.jpg" style="width:100%" alt="Image 1">
+            <div class="carousel-caption">
+                <a>..Take a Poll</a>
+            </div>
+        </div>
+        <div class="item">
+            <img src="~/Content/images/image2.png" style="width:100%" alt="Image 2">
+            <div class="carousel-caption">
+                <a>..Here's your Response</a>
+            </div>
+        </div>
+        <div class="item">
+            <img src="~/Content/images/image3.jpg" style="width:100%" alt="Image 3">
+            <div class="carousel-caption">
+                <a>..Make your Decision!</a>
+            </div>
+        </div>
+        
+        <a>What Say You?…A Simple Yes or No Will Do.</a>
+        
+    </div>
+ 
+</div>
+
+<div id="title" class="intro ">
+    <div class="left">
+        <h2 itemprop="name">WePoll - Polling With Friends</h2>
+    </div>
+
+    <div class="center-stack">
+
+        <div more-text="More" metrics-loc="Titledbox_Description" class="product-review">
+
+            <h3>
+                Description
+            </h3>
+
+            <p itemprop="description" class="truncate" style="height: 54px;">WePoll is an ultimately staright-forward polling application not open for discussion  - just ask simple questions and receive YES or NO answers!  <br><br>To get instant poll results, register/login then follow the prompts to find out what people think!<br><br>If you need YES/NO answers right away and want to avoid mindless back and forth in group texts, WePoll will force your friends to get to the point.<br><br>“WePoll brings efficiency to polling with yes or no questions” - No more dealing with indecision on group messages - just ask and get the immediate/relevant answers you need whwerever you are!<p />
+
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid">
+
+    @if (TempData["message"] !=null)
+    {
+        <div style="margin-top:10px;"
+             class="alert alert-danger alert-dismissible fade in" role="alert">
+            <button type="button" class="close" data-dismiss="alert" aria-label="close"><span aria-hidden="true">x</span></button>
+        </div> 
+    }
+
+    
+    @*<div class="row">
+        <div class="col-md-8">
+            <h4>Options</h4>
+            <hr />
+            <div class="row">
+                @foreach (var option in )
+            </div>
+        </div>
+    </div>*@
+    
+
+
+</div>
+
+
+@*<div id="votecontainer">
+
+    <a href="@Url.Action("yesVote","vote")" class="btn btn-primary">
+        <i class="btn btn-success"></i>Yes
+    </a>
+    <a href="@Url.Action("noVote","vote")" class="btn btn-primary">
+        <i class="btn btn-danger"></i>No
+    </a>
+</div>*@
+

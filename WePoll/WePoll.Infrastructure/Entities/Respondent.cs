@@ -10,7 +10,6 @@ namespace WePoll.Infrastructure.Entities
         public int UserId { get; set; }
         public int PollId { get; set; }
         public virtual User User { get; set; }
-        public virtual Vote Vote { get; set; }
         public virtual Poll Poll { get; set; }
     }
 }

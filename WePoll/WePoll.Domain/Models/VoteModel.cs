@@ -5,7 +5,7 @@ using System.Web;
 
 namespace WePoll.Domain.Models
 {
-    public class VoteModel
+    public class VoteModel : Model
     {
         public int RespondentId { get; set; }
         public int OptionId { get; set; }
