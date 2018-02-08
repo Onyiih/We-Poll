@@ -426,7 +426,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\CastController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\VoteController.cs" />
+    <Compile Include="Controllers\PollController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -441,8 +441,9 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
-    <Content Include="Views\Home\Polls.cshtml" />
-    <Content Include="Views\Home\Create.cshtml" />
+    <Content Include="Views\Poll\Polls.cshtml" />
+    <Content Include="Views\Poll\Create.cshtml" />
+    <Content Include="Views\Poll\Details.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -454,9 +455,6 @@
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
     <Folder Include="Views\Cast\" />
-    <Folder Include="Views\NoVote\" />
-    <Folder Include="Views\Vote\" />
-    <Folder Include="Views\YesVote\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\WePoll.Domain\WePoll.Domain.csproj">

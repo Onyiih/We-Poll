@@ -53,9 +53,9 @@
     <Compile Include="Entities\Poll.cs" />
     <Compile Include="Entities\Option.cs" />
     <Compile Include="Entities\Respondent.cs" />
-    <Compile Include="Migrations\201802031552554_AddResponseTable.cs" />
-    <Compile Include="Migrations\201802031552554_AddResponseTable.Designer.cs">
-      <DependentUpon>201802031552554_AddResponseTable.cs</DependentUpon>
+    <Compile Include="Migrations\201802080321205_Initial.cs" />
+    <Compile Include="Migrations\201802080321205_Initial.Designer.cs">
+      <DependentUpon>201802080321205_Initial.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -75,8 +75,8 @@
     <Folder Include="Utilities\" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201802031552554_AddResponseTable.resx">
-      <DependentUpon>201802031552554_AddResponseTable.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201802080321205_Initial.resx">
+      <DependentUpon>201802080321205_Initial.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

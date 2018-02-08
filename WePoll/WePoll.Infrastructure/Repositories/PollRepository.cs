@@ -23,10 +23,10 @@ namespace WePoll.Infrastructure.Repositories
         {
             var poll = new Poll
             {
-                Text = model.Text, DateCreated = DateTime.Now,
+                Idea = model.Idea, DateCreated = DateTime.Now,
                 Options = model.Options.Select(p => new Option
                 {
-                    Text = p.Text, PollId = p.PollId
+                    Idea = p.Idea, PollId = p.PollId
                 }).ToList()
             };
 
@@ -39,9 +39,9 @@ namespace WePoll.Infrastructure.Repositories
             var model = _context.Set<Poll>().SingleOrDefault(p => p.PollId == pollId);
             return new PollModel
             {
-                 PollId = model.PollId, DateCreated = model.DateCreated, Text = model.Text, Options = model.Options.Select(p => new OptionModel
+                 PollId = model.PollId, DateCreated = model.DateCreated, Idea = model.Idea, Options = model.Options.Select(p => new OptionModel
                  {
-                      Text = p.Text, DateCreated = p.DateCreated, OptionId = p.OptionId 
+                      Idea = p.Idea, DateCreated = p.DateCreated, OptionId = p.OptionId 
                  }).ToList() 
             };
         }
@@ -52,10 +52,10 @@ namespace WePoll.Infrastructure.Repositories
             {
                 PollId = p.PollId,
                 DateCreated = p.DateCreated,
-                Text = p.Text,
+                Idea = p.Idea,
                 Options = p.Options.Select(t => new OptionModel
                 {
-                    Text = t.Text,
+                    Idea = t.Idea,
                     DateCreated = t.DateCreated,
                     OptionId = t.OptionId
                 }).ToList()
@@ -75,12 +75,12 @@ namespace WePoll.Infrastructure.Repositories
                         join p in _context.Set<Poll>() on o.PollId equals p.PollId
                         select new PollModel
                         {
-                            PollId = p.PollId, DateCreated = p.DateCreated, Text = p.Text,
+                            PollId = p.PollId, DateCreated = p.DateCreated, Idea = p.Idea,
                             Options = (from os in _context.Set<Option>()
                                        where os.PollId == p.PollId
                                        select new OptionModel
                                        {
-                                           PollId = p.PollId, Text = os.Text, OptionId = os.OptionId
+                                           PollId = p.PollId, Idea = os.Idea, OptionId = os.OptionId
                                        }).ToList()
                         };
 

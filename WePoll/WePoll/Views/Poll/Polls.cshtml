@@ -1,0 +1,39 @@
+﻿@model List<WePoll.Domain.Models.PollModel>
+
+@{
+    ViewBag.Title = "Polls";
+}
+
+<h2>Polls</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Ideas
+        </th>
+        <th>
+            Date Created
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Idea)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateCreated)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.PollId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.PollId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.PollId })
+            </td>
+        </tr>
+    }
+</table>

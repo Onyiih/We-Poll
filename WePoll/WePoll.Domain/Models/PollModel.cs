@@ -8,7 +8,7 @@ namespace WePoll.Domain.Models
     public class PollModel
     {
         public int PollId { get; set; }
-        public string Text { get; set; }
+        public string Idea { get; set; }
         public DateTime DateCreated { get; set; }
 
         public virtual ICollection<OptionModel> Options { get; set; } = new HashSet<OptionModel>();

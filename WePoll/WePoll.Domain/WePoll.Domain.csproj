@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Interface\Repositories\IPollRepository.cs" />
+    <Compile Include="Managers\OptionManager.cs" />
     <Compile Include="Managers\PollManager.cs" />
     <Compile Include="Managers\UserManager.cs" />
     <Compile Include="Models\Model.cs" />

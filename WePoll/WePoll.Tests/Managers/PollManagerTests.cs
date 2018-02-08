@@ -16,7 +16,7 @@ namespace WePoll.Tests.Managers
             var mockPollRepo = new MockPollRepository();
             var manager = new PollManager(mockPollRepo);
             //Act
-            var votes = manager.GetPoll();
+            var votes = manager.GetPolls();
             //Asserts
             Assert.IsTrue(votes.Length > 0, "No Vote was cast");
         }

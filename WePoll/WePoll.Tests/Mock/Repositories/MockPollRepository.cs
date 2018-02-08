@@ -29,8 +29,8 @@ namespace WePoll.Tests.Mock.Repositories
             {
                 new PollModel
                 {
-                    PollId = 101,
-                    Text = "Christmas Party should hold at a private beach. Yay or Nay?",
+                    PollId = 1,
+                    Idea = "Christmas Party should hold at a private beach. Yay or Nay?",
                     DateCreated = DateTime.Today
                 }
             };

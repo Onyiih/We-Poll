@@ -28,32 +28,32 @@ namespace WePoll.Controllers
             return View();
         }
 
-        public ActionResult Polls()
-        {
-            var polls = _poll.GetPolls().ToList();
-            return View(polls);
-        }
+        //public ActionResult Polls()
+        //{
+        //    var polls = _poll.GetPolls().ToList();
+        //    return View(polls);
+        //}
 
-        [HttpGet]
-        public ActionResult Create()
-        {
-            var model = new PollModel();
-            return View(model);
-        }
+        //[HttpGet]
+        //public ActionResult Create()
+        //{
+        //    var model = new PollModel();
+        //    return View(model);
+        //}
 
-        [HttpPost]
-        public ActionResult Create(PollModel model)
-        {
-            if (model != null)
-            {
-                bool result = _poll.SavePoll(model);
-                if (result)
-                {
-                    return RedirectToAction("Polls");
-                }
-            }
+        //[HttpPost]
+        //public ActionResult Create(PollModel model)
+        //{
+        //    if (model != null)
+        //    {
+        //        bool result = _poll.SavePoll(model);
+        //        if (result)
+        //        {
+        //            return RedirectToAction("Polls");
+        //        }
+        //    }
 
-            return View(model);
-        }
+        //    return View(model);
+        //}
     }
 }

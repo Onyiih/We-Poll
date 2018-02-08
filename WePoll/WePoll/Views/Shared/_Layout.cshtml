@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <title>@ViewBag.Title - WePoll Application</title>
     <link href="~/Libs/bootstrap-solarized-theme/dist/css/solarized-dark-theme.min.css" rel="stylesheet" />
     <link href="~/Libs/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
     <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
@@ -24,9 +24,11 @@
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav pull-right">
                     <li class="active">
-                        <a href="@Url.Action("Polls", "home")" class="fa fa-bar-chart">Polls</a>
+                        <a href="@Url.Action("Polls", "poll")" class="fa fa-bar-chart">Polls</a>
                     </li>
-                </ul>
+                    <li class="active">
+                        <a href="@Url.Action("Option", "option")" class="fa fa-check-square">Vote</a>
+                    </li></ul>
             </div>
         </div>
     </div>
