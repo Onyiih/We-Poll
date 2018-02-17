@@ -15,7 +15,7 @@ namespace WePoll.Tests.Mock.Repositories
             throw new NotImplementedException();
         }
 
-        public PollModel GetPoll(int pollId)
+        public PollModel GetPollById(int pollId)
         {
             throw new NotImplementedException();
         }

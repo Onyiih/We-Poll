@@ -28,6 +28,8 @@ namespace WePoll.Controllers
             return View();
         }
 
+        
+
         //public ActionResult Polls()
         //{
         //    var polls = _poll.GetPolls().ToList();

@@ -24,10 +24,14 @@ namespace WePoll.Domain.Managers
         {
             return _poll.GetPollWithReponses();
         }
-        
+        /// <summary>
+        /// This returns votes searched by id
+        /// </summary>
+        /// <param name="pollId"></param>
+        /// <returns></returns>
         public PollModel GetPoll(int pollId)
         {
-            return _poll.GetPoll(pollId);
+            return _poll.GetPollById(pollId);
         }
         public PollModel[] GetPolls()
         {

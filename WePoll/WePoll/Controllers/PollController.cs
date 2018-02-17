@@ -54,6 +54,30 @@ namespace WePoll.Controllers
             return View(model);
         }
 
+        //[HttpGet]
+        //public ActionResult Edit()
+        //{
+        //    if (model != null)
+        //    {
+        //        var detail = _poll.GetPoll(int pollId);
+        //    }
+
+        //    return View(model);
+        //}
+
+        //[HttpPost]
+        //[ValidateAntiForgeryToken]
+        //public ActionResult Edit([Bind(Include = "Idea, DateCreated")]Poll poll)
+        //{
+        //    try
+        //    {
+        //        if (ModelState.IsValid)
+        //        {
+        //            var edit = _poll.GetPoll.
+        //        }
+        //    }
+        //}
+
         public ActionResult Details(PollModel model)
         {
             if (model != null)
@@ -64,7 +88,7 @@ namespace WePoll.Controllers
             return View(model);
         }
 
-        public ActionResult YesVote() => Content("You have successfully cast a \"Yes\" vote!");
-        public ActionResult NoVote() => Content("You have successfully cast a \"No\" vote!");
+        //public ActionResult YesVote() => Content("You have successfully cast a \"Yes\" vote!");
+        //public ActionResult NoVote() => Content("You have successfully cast a \"No\" vote!");
     }
 }

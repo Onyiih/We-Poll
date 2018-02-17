@@ -34,15 +34,20 @@ namespace WePoll.Infrastructure.Repositories
             return _context.SaveChanges() > 0 ? true : false; 
         }
 
-        public PollModel GetPoll(int pollId)
+        public PollModel GetPollById(int pollId)
         {
             var model = _context.Set<Poll>().SingleOrDefault(p => p.PollId == pollId);
             return new PollModel
             {
-                 PollId = model.PollId, DateCreated = model.DateCreated, Idea = model.Idea, Options = model.Options.Select(p => new OptionModel
-                 {
-                      Idea = p.Idea, DateCreated = p.DateCreated, OptionId = p.OptionId 
-                 }).ToList() 
+                PollId = model.PollId,
+                DateCreated = model.DateCreated,
+                Idea = model.Idea,
+                Options = model.Options.Select(p => new OptionModel
+                {
+                    Idea = p.Idea,
+                    DateCreated = p.DateCreated,
+                    OptionId = p.OptionId
+                }).ToList()
             };
         }
 
