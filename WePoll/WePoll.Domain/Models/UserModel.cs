@@ -15,8 +15,5 @@ namespace WePoll.Domain.Models
         public string Address { get; set; }
         public string Password { get; set; }
         public string Image { get; set; }
-
-
-        public virtual ICollection<RespondentModel> Respondents { get; set; } = new HashSet<RespondentModel>();
     }
 }

@@ -7,11 +7,9 @@ using WePoll.Domain.Models;
 
 namespace WePoll.Domain.Interface.Repositories
 {
-    public interface IPollRepository
+    public interface IResponseRepository
     {
-        PollModel[] GetPolls();
-        void AddPoll(PollModel model);
-        bool UpdatePoll(PollModel model);
-        PollModel DisplayPoll(int pollId);
+        void AddResponse(ResponseModel model, int pollId);
+        Dictionary<string, int> GetResponses(int pollId);
     }
 }

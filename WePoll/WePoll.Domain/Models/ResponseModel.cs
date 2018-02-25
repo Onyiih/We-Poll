@@ -1,20 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WePoll.Infrastructure.Entities
+namespace WePoll.Domain.Models
 {
-    public class Response
+    public class ResponseModel : Model
     {
-        [Key]
         public int ResponseId { get; set; }
+        public int PollId { get; set; }
         public string Option { get; set; }
         public int Count { get; set; }
+        public string Email { get; set; }
 
-        public int PollId { get; set; }
-        public virtual Poll Poll { get; set; }
     }
 }

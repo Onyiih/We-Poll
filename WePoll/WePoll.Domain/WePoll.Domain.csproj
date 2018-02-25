@@ -42,15 +42,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Interface\Repositories\IPollRepository.cs" />
-    <Compile Include="Managers\OptionManager.cs" />
+    <Compile Include="Interface\Repositories\IResponseRepository.cs" />
+    <Compile Include="Managers\ResponseManager.cs" />
     <Compile Include="Managers\PollManager.cs" />
     <Compile Include="Managers\UserManager.cs" />
     <Compile Include="Models\Model.cs" />
-    <Compile Include="Models\OptionModel.cs" />
     <Compile Include="Models\PollModel.cs" />
-    <Compile Include="Models\RespondentModel.cs" />
+    <Compile Include="Models\ResponseModel.cs" />
     <Compile Include="Models\UserModel.cs" />
-    <Compile Include="Models\VoteModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

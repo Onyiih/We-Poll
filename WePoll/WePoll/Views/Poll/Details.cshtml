@@ -10,13 +10,13 @@
     <h4>PollModel</h4>
     <hr />
     <dl class="dl-horizontal">
-       
+
         <dt>
-            @Html.DisplayNameFor(model => model.Idea)
+            @Html.DisplayNameFor(model => model.Text)
         </dt>
 
         <dd>
-            @Html.DisplayFor(model => model.Idea)
+            @Html.DisplayFor(model => model.Text)
         </dd>
 
         <dt>
@@ -28,39 +28,23 @@
         </dd>
 
         <dt>
-            @Html.DisplayNameFor(model => model.Options)
+            @Html.DisplayNameFor(model => model.Responses)
+
         </dt>
-
         <dd>
-            <table class="table">
-                <tr>
-                    <th>Yes</th>
-                    <th>Total</th>
-                </tr>
-                <tr>
-                    <th>No</th>
-                    <th>Total</th>
-                </tr>
-                @foreach (var o in Model.Options)
-                {
-                    <tr>
-                        <td>
-                            @Html.DisplayFor(modelItem => o.Yes)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => o.No)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => o.Total)
-                        </td>
-                    </tr>
-                }
-            </table>
-        </dd>
+            @foreach (var item in Model.Responses)
+            {
 
+                <p><b>@item.Key</b> : @item.Value</p>
+
+            }
+        </dd>
     </dl>
+
+
+
 </div>
 <p>
     @Html.ActionLink("Edit", "Edit", new { id = Model.PollId }) |
-    @Html.ActionLink("Back to List", "Index")
+    @Html.ActionLink("Back to List", "Polls")
 </p>

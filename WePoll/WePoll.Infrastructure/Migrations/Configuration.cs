@@ -23,22 +23,22 @@ namespace WePoll.Infrastructure.Migrations
             {
                 context.Polls.AddOrUpdate(p => p.PollId, new Entities.Poll
                 {
-                    Idea = "Private beach for Christmas party!",
+                    Text = "Private beach for Christmas party!",
                     DateCreated = DateTime.Today
                 },
                 new Entities.Poll
                 {
-                    Idea = "We should have a Reunion.",
+                    Text = "We should have a Reunion.",
                     DateCreated = DateTime.Today
                 },
                 new Entities.Poll
                 {
-                    Idea = "Lets have a Football competion!",
+                    Text = "Lets have a Football competion!",
                     DateCreated = DateTime.Today
                 },
                 new Entities.Poll
                 {
-                    Idea = "I think we should build and fornish a Computer Lab with 100 computers in our former Department!",
+                    Text = "I think we should build and fornish a Computer Lab with 100 computers in our former Department!",
                     DateCreated = DateTime.Today
                 });
             }

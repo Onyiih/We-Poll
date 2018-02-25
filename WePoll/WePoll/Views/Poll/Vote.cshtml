@@ -1,0 +1,31 @@
+﻿@model VoteViewModel
+
+@{
+    ViewBag.Title = "Vote";
+}
+
+<h2>Vote</h2>
+
+<div>
+
+    <h1 style="color:white">@Html.DisplayFor(model => model.Text)</h1>
+
+    <form method="post">
+        @Html.LabelFor(model => model.Email)
+        @Html.TextBoxFor(model => model.Email, new { @class = "form-control" })
+        @Html.HiddenFor(model => model.PollId)
+
+        <div class="h20">
+            @Html.RadioButtonFor(model => model.Option, "Yes", new { @class = "" }) Yes
+            @Html.RadioButtonFor(model => model.Option, "No")No
+        </div>
+        <br />
+        <button class="btn btn-default">Vote</button>
+
+    </form>
+
+
+</div>
+<p>
+    @Html.ActionLink("Back to List", "Polls")
+</p>

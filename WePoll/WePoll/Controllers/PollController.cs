@@ -8,16 +8,21 @@ using WePoll.Domain.Managers;
 using WePoll.Domain.Models;
 using WePoll.Infrastructure.Entities;
 using WePoll.Infrastructure.Repositories;
+using WePoll.Models;
 
 namespace WePoll.Controllers
 {
     public class PollController : Controller
     {
         private PollManager _poll;
+        private ResponseManager _response;
+        private DataEntities _data = new DataEntities();
+
         public PollController()
         {
-            var PollRepo = new PollRepository(new DataEntities());
-            _poll = new PollManager(PollRepo);
+            var pollRepo = new PollRepository(_data);
+            _poll = new PollManager(pollRepo);
+            _response = new ResponseManager(new ResponseRepository(_data));
         }
         public ActionResult Polls()
         {
@@ -40,11 +45,10 @@ namespace WePoll.Controllers
             {
                 if (model != null)
                 {
-                    bool result = _poll.SavePoll(model);
-                    if (result)
-                    {
-                        return RedirectToAction("Polls");
-                    }
+                    _poll.SavePoll(model);
+
+                    return RedirectToAction("Polls");
+
                 }
             }
             catch (DataException)
@@ -78,17 +82,57 @@ namespace WePoll.Controllers
         //    }
         //}
 
-        public ActionResult Details(PollModel model)
+        public ActionResult Details(int id)
         {
-            if (model != null)
-            {
-                var detail = _poll.GetPollsWithResponses();
-            }
+
+            var model = _poll.DisplayPoll(id);
 
             return View(model);
         }
 
-        //public ActionResult YesVote() => Content("You have successfully cast a \"Yes\" vote!");
-        //public ActionResult NoVote() => Content("You have successfully cast a \"No\" vote!");
+
+        public ActionResult Vote(int id)
+        {
+            //Get the poll
+            var poll = _poll.DisplayPoll(id);
+            var model = new VoteViewModel
+            {
+                PollId = poll.PollId,
+                Text = poll.Text,
+                Responses = poll.Responses
+            };
+
+            //pass it to the view
+            return View(model);
+        }
+
+        [HttpPost]
+        public ActionResult Vote(VoteViewModel model)
+        {
+            //Get Poll
+            var poll = _poll.DisplayPoll(model.PollId);
+            model.Text = poll.Text;
+            model.Responses = poll.Responses;
+
+
+            if (ModelState.IsValid)
+            {
+                //Get posted Values and save to database
+                var response = new ResponseModel
+                {
+
+                    PollId = model.PollId,
+                    Option = model.Option,
+                    Email = model.Email,
+
+                };
+                _response.AddResponse(response, poll.PollId);
+                return RedirectToAction("details", new { id = poll.PollId});
+            }
+
+            return View(model);
+
+
+        }
     }
 }

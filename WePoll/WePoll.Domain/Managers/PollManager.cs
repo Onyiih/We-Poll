@@ -16,34 +16,29 @@ namespace WePoll.Domain.Managers
         {
             _poll = poll;
         }
-        /// <summary>
-        /// This returns all votes
-        /// </summary>
-        /// <returns>Array of Votes</returns>
-        public PollModel[] GetPollsWithResponses()
-        {
-            return _poll.GetPollWithReponses();
-        }
-        /// <summary>
-        /// This returns votes searched by id
-        /// </summary>
-        /// <param name="pollId"></param>
-        /// <returns></returns>
-        public PollModel GetPoll(int pollId)
-        {
-            return _poll.GetPollById(pollId);
-        }
+      
+       
         public PollModel[] GetPolls()
         {
             return _poll.GetPolls();
         }
 
-        public bool SavePoll(PollModel model)
+        public void SavePoll(PollModel model)
         {
             if (model.PollId >= 0)
-                return _poll.AddPoll(model);
+                _poll.AddPoll(model);
             else
-                return _poll.UpdatePoll(model);
+                _poll.UpdatePoll(model);
+        }
+
+        /// <summary>
+        /// Displays a Poll by it's Id.
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
+        public PollModel DisplayPoll(int id)
+        {
+           return  _poll.DisplayPoll(id);
         }
     }
 }

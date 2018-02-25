@@ -10,9 +10,14 @@ namespace WePoll.Infrastructure.Entities
     public class DataEntities: DbContext
     {
         public DbSet<User> Users { get; set; }
-        public DbSet<Respondent> Respondents { get; set; }
-        public DbSet<Response> Responses { get; set; } 
         public DbSet<Poll> Polls { get; set; }
-        public DbSet<Option> Options { get; set; }
+        public DbSet<Response> Responses { get; set; }
+
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<Poll>().Ignore(p => p.RespondentIPs);
+        }
     }
 }

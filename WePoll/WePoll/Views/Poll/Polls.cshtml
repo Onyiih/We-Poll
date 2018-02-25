@@ -12,27 +12,29 @@
 <table class="table">
     <tr>
         <th>
-            Ideas
+            <b>Ideas</b>
         </th>
         <th>
-            Date Created
+            <b>Date Created</b>
         </th>
-        <th></th>
+        <th>
+            <b>Options</b>
+        </th>
     </tr>
 
     @foreach (var item in Model)
     {
         <tr>
             <td>
-                @Html.DisplayFor(modelItem => item.Idea)
+                @Html.DisplayFor(modelItem => item.Text)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.DateCreated)
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { id = item.PollId }) |
                 @Html.ActionLink("Details", "Details", new { id = item.PollId }) |
-                @Html.ActionLink("Delete", "Delete", new { id = item.PollId })
+                @Html.ActionLink("Delete", "Delete", new { id = item.PollId }) |
+                @Html.ActionLink("Vote", "Vote", new { id = item.PollId })
             </td>
         </tr>
     }

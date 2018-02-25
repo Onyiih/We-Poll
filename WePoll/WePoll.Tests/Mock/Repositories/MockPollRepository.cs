@@ -15,6 +15,11 @@ namespace WePoll.Tests.Mock.Repositories
             throw new NotImplementedException();
         }
 
+        public PollModel DisplayPoll(int pollId)
+        {
+            throw new NotImplementedException();
+        }
+
         public PollModel GetPollById(int pollId)
         {
             throw new NotImplementedException();
@@ -30,12 +35,17 @@ namespace WePoll.Tests.Mock.Repositories
                 new PollModel
                 {
                     PollId = 1,
-                    Idea = "Christmas Party should hold at a private beach. Yay or Nay?",
+                    Text = "Christmas Party should hold at a private beach. Yay or Nay?",
                     DateCreated = DateTime.Today
                 }
             };
 
         public bool UpdatePoll(PollModel model)
+        {
+            throw new NotImplementedException();
+        }
+
+        void IPollRepository.AddPoll(PollModel model)
         {
             throw new NotImplementedException();
         }

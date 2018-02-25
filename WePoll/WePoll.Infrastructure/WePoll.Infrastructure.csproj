@@ -51,15 +51,30 @@
     <Compile Include="Entities\Response.cs" />
     <Compile Include="Entities\User.cs" />
     <Compile Include="Entities\Poll.cs" />
-    <Compile Include="Entities\Option.cs" />
-    <Compile Include="Entities\Respondent.cs" />
-    <Compile Include="Migrations\201802080321205_Initial.cs" />
-    <Compile Include="Migrations\201802080321205_Initial.Designer.cs">
-      <DependentUpon>201802080321205_Initial.cs</DependentUpon>
+    <Compile Include="Migrations\201802202023414_Change.cs" />
+    <Compile Include="Migrations\201802202023414_Change.Designer.cs">
+      <DependentUpon>201802202023414_Change.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201802241430541_AddedResponse.cs" />
+    <Compile Include="Migrations\201802241430541_AddedResponse.Designer.cs">
+      <DependentUpon>201802241430541_AddedResponse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201802251501296_RemovedResponses.cs" />
+    <Compile Include="Migrations\201802251501296_RemovedResponses.Designer.cs">
+      <DependentUpon>201802251501296_RemovedResponses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201802251504156_AddedResponseTable.cs" />
+    <Compile Include="Migrations\201802251504156_AddedResponseTable.Designer.cs">
+      <DependentUpon>201802251504156_AddedResponseTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201802251521212_AddedEmails.cs" />
+    <Compile Include="Migrations\201802251521212_AddedEmails.Designer.cs">
+      <DependentUpon>201802251521212_AddedEmails.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\PollRepository.cs" />
+    <Compile Include="Repositories\ResponseRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -75,8 +90,20 @@
     <Folder Include="Utilities\" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201802080321205_Initial.resx">
-      <DependentUpon>201802080321205_Initial.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201802202023414_Change.resx">
+      <DependentUpon>201802202023414_Change.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201802241430541_AddedResponse.resx">
+      <DependentUpon>201802241430541_AddedResponse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201802251501296_RemovedResponses.resx">
+      <DependentUpon>201802251501296_RemovedResponses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201802251504156_AddedResponseTable.resx">
+      <DependentUpon>201802251504156_AddedResponseTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201802251521212_AddedEmails.resx">
+      <DependentUpon>201802251521212_AddedEmails.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
