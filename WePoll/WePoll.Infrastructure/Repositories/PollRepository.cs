@@ -19,7 +19,7 @@ namespace WePoll.Infrastructure.Repositories
             _context = context;
         }
 
-        public void AddPoll(PollModel model)
+        public bool AddPoll(PollModel model)
         {
             var poll = new Poll
             {
@@ -27,6 +27,7 @@ namespace WePoll.Infrastructure.Repositories
             };
 
             _context.Set<Poll>().Add(poll);
+            return _context.SaveChanges() > 0 ? true : false;
         }
 
         

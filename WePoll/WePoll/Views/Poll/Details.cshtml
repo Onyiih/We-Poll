@@ -7,17 +7,18 @@
 <h2>Details</h2>
 
 <div>
-    <h4>PollModel</h4>
+    <br />
+    <h1 style="color:white">@Html.DisplayFor(model => model.Text)</h1>
     <hr />
     <dl class="dl-horizontal">
 
-        <dt>
+        @*<dt>
             @Html.DisplayNameFor(model => model.Text)
         </dt>
 
         <dd>
             @Html.DisplayFor(model => model.Text)
-        </dd>
+        </dd>*@
 
         <dt>
             @Html.DisplayNameFor(model => model.DateCreated)
@@ -45,6 +46,5 @@
 
 </div>
 <p>
-    @Html.ActionLink("Edit", "Edit", new { id = Model.PollId }) |
     @Html.ActionLink("Back to List", "Polls")
 </p>

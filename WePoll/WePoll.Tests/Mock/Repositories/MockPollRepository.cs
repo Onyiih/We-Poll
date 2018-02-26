@@ -45,9 +45,9 @@ namespace WePoll.Tests.Mock.Repositories
             throw new NotImplementedException();
         }
 
-        void IPollRepository.AddPoll(PollModel model)
-        {
-            throw new NotImplementedException();
-        }
+        //void IPollRepository<void>.AddPoll(PollModel model)
+        //{
+        //    throw new NotImplementedException();
+        //}
     }
 }

@@ -10,7 +10,7 @@ namespace WePoll.Domain.Interface.Repositories
     public interface IPollRepository
     {
         PollModel[] GetPolls();
-        void AddPoll(PollModel model);
+        bool AddPoll(PollModel model);
         bool UpdatePoll(PollModel model);
         PollModel DisplayPoll(int pollId);
     }

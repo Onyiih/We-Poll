@@ -4,28 +4,47 @@
     ViewBag.Title = "Vote";
 }
 
-<h2>Vote</h2>
+<h3>Give your opinion..</h3>
 
 <div>
 
     <h1 style="color:white">@Html.DisplayFor(model => model.Text)</h1>
 
     <form method="post">
-        @Html.LabelFor(model => model.Email)
-        @Html.TextBoxFor(model => model.Email, new { @class = "form-control" })
-        @Html.HiddenFor(model => model.PollId)
-
-        <div class="h20">
-            @Html.RadioButtonFor(model => model.Option, "Yes", new { @class = "" }) Yes
-            @Html.RadioButtonFor(model => model.Option, "No")No
+        <div class="form-group">
+            @Html.LabelFor(model => model.Email, "Email Address")
+            @*<label for="exampleInputEmail1">Email address</label>*@
+            @Html.TextBoxFor(model => model.Email, new { @class = "form-control", @describedby = "emailHelp", @placeholder = "Enter email"})
+            @Html.HiddenFor(model => model.PollId)
+            @*<input type="email" aria-describedby="emailHelp" placeholder="Enter email">*@
+            <small id="emailHelp" class="form-text text-muted">You are required to provide an email address in order to vote.</small>
         </div>
-        <br />
-        <button class="btn btn-default">Vote</button>
+        @*@Html.LabelFor(model => model.Email)
+            @Html.TextBoxFor(model => model.Email, new { @class = "form-control" })
+            @Html.HiddenFor(model => model.PollId)*@
+            <br />
+            <div class="h20">
+                <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                    <label class="btn btn-success">
+                        @Html.RadioButtonFor(model => model.Option, "Yes", new { @class = "" }) Yes
+                    </label>
+                </div>
+                <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                    <label class="btn btn-danger">
+                        @Html.RadioButtonFor(model => model.Option, "No")No
+                    </label>
+                </div>
+            </div>
+            <br />
+            <button class="btn btn-default btn-sm">Submit</button>
 
-    </form>
+</form>
 
 
 </div>
+<br />
+<br />
+<br />
 <p>
     @Html.ActionLink("Back to List", "Polls")
 </p>

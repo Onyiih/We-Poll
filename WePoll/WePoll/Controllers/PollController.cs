@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
+using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using WePoll.Domain.Managers;
@@ -39,17 +40,23 @@ namespace WePoll.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "PollId, Idea, DateCreated")]PollModel model)
+        public ActionResult Create([Bind(Include = "Text, DateCreated")]PollModel model)
         {
             try
             {
-                if (model != null)
+                if (ModelState.IsValid)
                 {
                     _poll.SavePoll(model);
-
+                    _data.SaveChanges ();
                     return RedirectToAction("Polls");
-
                 }
+                //if (model != null)
+                //{
+                //    _poll.SavePoll(model);
+
+                //    return RedirectToAction("Polls");
+
+                //}
             }
             catch (DataException)
             {
@@ -57,6 +64,36 @@ namespace WePoll.Controllers
             }
             return View(model);
         }
+
+        //[HttpGet]
+        //public ActionResult Delete(int? id, bool? saveChangesError = false)
+        //{
+        //    if (id == null)
+        //    {
+        //        return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+        //    }
+        //    if (saveChangesError.GetValueOrDefault())
+        //    {
+        //        ViewBag.ErrorMessage = "Delete failed. Try again, and if the problem persists, contact your system administrator.";
+        //    }
+        //    Poll poll = _poll.DisplayPoll(id);
+        //    if (poll == null)
+        //    {
+        //        return HttpNotFound();
+        //    }
+        //    return View(poll);
+        //}
+
+        //[HttpPost]
+        //[ValidateAntiForgeryToken]
+        //public ActionResult Delete(int id)
+        //{
+        //    try
+        //    {
+        //        Poll poll = _poll.DisplayPoll(id);
+        //        _poll.
+        //    }
+        //}
 
         //[HttpGet]
         //public ActionResult Edit()
@@ -89,6 +126,8 @@ namespace WePoll.Controllers
 
             return View(model);
         }
+
+
 
 
         public ActionResult Vote(int id)
