@@ -1,6 +1,6 @@
 # VISION
 
-WePoll is a web Application that allows users to easily create polls that they can send to group of friends to gather their opinion on a matter or find the most popular decision from a list of options. The first user(Initiator) initiates the question, each friend(Respondent) then recieves a notification that they have been prompted with a question and will see the options provided by the Initiator. They each select their answer and submit. The Initiator can then see the aggregate responses in realtime and make a decision accordingly.
+WePoll is a web Application that allows users to easily create polls that they can send to group of friends to gather their opinion (yes/no) on a matter and make a decision accordingly.
 
 # ENTITIES
 - Poll: A complete package including a question, its possible Answers, the prompted Respondents and aggregate responses provided by the Respondents.
@@ -16,3 +16,6 @@ WePoll is a web Application that allows users to easily create polls that they c
 - Initiate Poll
 - view poll
 - Respond
+
+# PROJECT SO FAR
+To view progress on project, click on the [Progress](https://Onyiih.github.io/We-Poll) link to check it out.
